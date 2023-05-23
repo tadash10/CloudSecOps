@@ -1,0 +1,11 @@
+# Python-specific ignores
+*.pyc
+*.pyo
+__pycache__/
+
+# Editor-specific ignores
+.idea/
+.vscode/
+
+# Dependency directories
+venv/
