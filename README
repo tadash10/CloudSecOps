@@ -30,3 +30,27 @@ To use the Cloud Security Engineering Toolkit script, follow these steps:
 2. Ensure Python 3 is installed on your system.
 
 3. Install the necessary dependencies using the following command:
+
+## Functionality
+
+The script provides the following functions:
+
+- Check the status of cloud providers (AWS, Azure, Google Cloud)
+- Check the version of Kubernetes
+- Check the status of the Kubernetes cluster
+- Check the status of pods
+- Check the status of nodes
+- Check the status of deployments
+- Check the status of ingresses
+- Check the status of network policies
+- Check security events
+- Notify the security team about security incidents
+- Investigate security incidents
+- Remediate security incidents
+- Generate a security report
+- Run a vulnerability scan
+- Enforce security policies
+- Backup configuration
+- Run compliance checks
+
+Feel free to extend or modify the script to suit your specific cloud security engineering needs.
